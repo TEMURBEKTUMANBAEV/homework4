@@ -1,0 +1,9 @@
+.block__two__cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.block__two__card{
+    max-width: 300px;
+    margin: 30px;
+}
